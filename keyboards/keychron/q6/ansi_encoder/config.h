@@ -44,3 +44,6 @@
 
 /* Enable SCROLL_LOCK_LED_INDEX */
 #define SCROLL_LOCK_LED_INDEX 14 //Added by Shane
+
+/* Set timeout for RGB lights */
+#define RGB_MATRIX_TIMEOUT 90000 //Added by Shane
